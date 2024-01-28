@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+"""hypermedia pagination, a bit more difficult"""
+
 import csv
 import math
 from typing import List
